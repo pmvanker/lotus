@@ -21,7 +21,7 @@
 #define AIO_SERVER      "postman.cloudmqtt.com"
 #define AIO_SERVERPORT  17736                   // use 8883 for SSL
 #define AIO_USERNAME    "oqpqdwuo"
-#define AIO_KEY         "hZ3dEfrfFbsN"
+#define AIO_KEY         "xxxxxxxxxxx"
 
 /************ Global State (you don't need to change this!) ******************/
 
